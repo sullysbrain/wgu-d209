@@ -8,6 +8,9 @@ jupyterlab = "*"
 numpy = "*"
 pandas = "*"
 scikit-learn = "*"
+pandoc = "*"
+plotnine = "*"
+seaborn = "*"
 
 [dev-packages]
 
